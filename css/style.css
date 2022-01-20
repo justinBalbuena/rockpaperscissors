@@ -5,3 +5,13 @@
   display: flex;
   justify-content: space-between;
 }
+.scores {
+  display: flex;
+  justify-content: space-between;
+}
+.playerScore {
+  border: 5px groove #00BCD4;
+}
+.computerScore {
+  border: 5px groove #00BCD4;
+}
